@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Task1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Task1.run2xzd2sq.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\donationInfo.css",
+      "PackagePath": "staticwebassets\\css\\donationInfo.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\giftForm.css",
+      "PackagePath": "staticwebassets\\css\\giftForm.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\payment.css",
+      "PackagePath": "staticwebassets\\css\\payment.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\programs.css",
+      "PackagePath": "staticwebassets\\css\\programs.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\programsDetails.css",
+      "PackagePath": "staticwebassets\\css\\programsDetails.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\reports.css",
+      "PackagePath": "staticwebassets\\css\\reports.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\signUp.css",
+      "PackagePath": "staticwebassets\\css\\signUp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\successStories.css",
+      "PackagePath": "staticwebassets\\css\\successStories.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\css\\variables.css",
+      "PackagePath": "staticwebassets\\css\\variables.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\3-help.jpg",
+      "PackagePath": "staticwebassets\\images\\3-help.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\Charity.jpg",
+      "PackagePath": "staticwebassets\\images\\Charity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\Group 82.png",
+      "PackagePath": "staticwebassets\\images\\Group 82.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\bodyBG.png",
+      "PackagePath": "staticwebassets\\images\\bodyBG.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\bodyBG1.png",
+      "PackagePath": "staticwebassets\\images\\bodyBG1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\circle1.png",
+      "PackagePath": "staticwebassets\\images\\circle1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\deal (1).png",
+      "PackagePath": "staticwebassets\\images\\deal (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\generous 1.png",
+      "PackagePath": "staticwebassets\\images\\generous 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\gift-box.png",
+      "PackagePath": "staticwebassets\\images\\gift-box.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\gift.png",
+      "PackagePath": "staticwebassets\\images\\gift.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\girlImg.png",
+      "PackagePath": "staticwebassets\\images\\girlImg.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\hero.png",
+      "PackagePath": "staticwebassets\\images\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\homeAbout.jpeg",
+      "PackagePath": "staticwebassets\\images\\homeAbout.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\img_v_1-min.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_1-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\img_v_2-min.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\img_v_4-min.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_4-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\img_v_5-min.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_5-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\img_v_6-min.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_6-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\img_v_7-min.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_7-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\img_v_8-min.jpg",
+      "PackagePath": "staticwebassets\\images\\img_v_8-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\leftCircle.png",
+      "PackagePath": "staticwebassets\\images\\leftCircle.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\love-letter.png",
+      "PackagePath": "staticwebassets\\images\\love-letter.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\money.png",
+      "PackagePath": "staticwebassets\\images\\money.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\pragrams.png",
+      "PackagePath": "staticwebassets\\images\\pragrams.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\program1.png",
+      "PackagePath": "staticwebassets\\images\\program1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\program2.png",
+      "PackagePath": "staticwebassets\\images\\program2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\program3.png",
+      "PackagePath": "staticwebassets\\images\\program3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\program4.png",
+      "PackagePath": "staticwebassets\\images\\program4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\rightCircle.png",
+      "PackagePath": "staticwebassets\\images\\rightCircle.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\self-love (1).png",
+      "PackagePath": "staticwebassets\\images\\self-love (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\statisticsImg1.jpeg",
+      "PackagePath": "staticwebassets\\images\\statisticsImg1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\statisticsImg2.jpeg",
+      "PackagePath": "staticwebassets\\images\\statisticsImg2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\statisticsImg3.jpeg",
+      "PackagePath": "staticwebassets\\images\\statisticsImg3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\successStories.png",
+      "PackagePath": "staticwebassets\\images\\successStories.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\images\\sustainable 1.png",
+      "PackagePath": "staticwebassets\\images\\sustainable 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\js\\giftForm.js",
+      "PackagePath": "staticwebassets\\js\\giftForm.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\js\\navAndFooterFetch.js",
+      "PackagePath": "staticwebassets\\js\\navAndFooterFetch.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\js\\payment.js",
+      "PackagePath": "staticwebassets\\js\\payment.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\16-02-2025\\Task1\\Task1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Task1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Task1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Task1.props",
+      "PackagePath": "build\\Task1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Task1.props",
+      "PackagePath": "buildMultiTargeting\\Task1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Task1.props",
+      "PackagePath": "buildTransitive\\Task1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

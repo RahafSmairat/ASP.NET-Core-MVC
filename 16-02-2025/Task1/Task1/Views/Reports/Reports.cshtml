@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Reports";
+}
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section HeaderTitle {
+    <h2 class="section">قصص نجاح بفضل سخائكم</h2>
+}
+
+<main id="reportsContainer" class="section">
+    <div id="reportsFilter">
+        <h3>عرض التقارير لعام</h3>
+        <select>
+            <option value="" disabled selected>-اختر السنة-</option>
+            <option value="2025">2025</option>
+        </select>
+    </div>
+    <div id="reportsFiles">
+        <a href="#">
+            <i class="fa-solid fa-file-pdf"></i>
+            تحميل التقرير السنوي لعام - 2025
+        </a>
+    </div>
+</main>
