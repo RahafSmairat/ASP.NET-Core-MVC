@@ -1,0 +1,46 @@
+﻿<h3>Welcome to About Page</h3>
+
+@{
+    string name = "Rahaf";
+    int age = 26;
+
+    string[] fruits = { "Apple", "Banana", "Cherry" };
+}
+
+<h3>Welcome, @name!</h3>
+
+@if (age >= 18)
+{
+    <p>You are an adult.</p>
+}
+else
+{
+    <p>You are under 18.</p>
+}
+
+<h3>Fruits List:</h3>
+<ul>
+    @foreach (var fruit in fruits)
+    {
+        <li>@fruit</li>
+    }
+</ul>
+
+@{
+    string day = "Monday";
+}
+
+<p>
+    @switch (day)
+    {
+        case "Monday":
+            @:Start of the week!
+            break;
+        case "Friday":
+            @:Weekend is coming!
+            break;
+        default:
+            @:Another normal day.
+            break;
+    }
+</p>

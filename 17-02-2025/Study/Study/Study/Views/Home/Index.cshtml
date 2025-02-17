@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout1.cshtml"; // This page will use Layout 1
+}
+
+@section Paragraph {
+<p>
+    This was added using Render Section
+</p>
+}
+
+@{
+    string name = "John";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/custom.css" />
+</head>
+
+<h3>Welcome to Index Page</h3>
+<h3>Hello, @name!</h3>

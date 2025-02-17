@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "User";
+}
+
+@{
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+
+<h1 style="justify-self:center; text-align:center; width:50%; margin-top:3%">
+    Extraordinary rooms with elegant,
+    yet a rustic atmosphere
+</h1>
+
+@{
+    var apartments = new[]
+        {
+        new { Image="https://images.pexels.com/photos/1918291/pexels-photo-1918291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", Description = "Apartment with Amazing Park View", Price = 45.00 },
+        new { Image="https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", Description = "Double Deluxe Room - Double Bed", Price = 35.00 },
+        new { Image="https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", Description = "Luxury Apartment - Ground Floor", Price = 40.00 }
+    };
+}
+<div style="display:flex; flex-direction:row; gap:20px; justify-content:center; margin:5%">
+@foreach(var apt in apartments){
+    <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src=@apt.Image alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">@apt.Description</h5>
+            <p class="card-text">$@apt.Price</p>
+            <a href="#" class="btn btn-primary">View</a>
+        </div>
+    </div>
+}
+</div>
