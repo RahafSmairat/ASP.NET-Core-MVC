@@ -30,23 +30,31 @@ namespace Task3.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        public IActionResult HandleLogin(string email, string password)
+        public IActionResult HandleLogin(string email, string password, string remember)
         {
 
             string email1 = HttpContext.Session.GetString("Email");
             string password1 = HttpContext.Session.GetString("Password");
 
-            if (string.IsNullOrEmpty(email1) || string.IsNullOrEmpty(password)) 
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(password)) 
             {
                 TempData["Message"] = "Please Fill All Feilds!";
                 return RedirectToAction("Login");
             }
             else
             {
+                if(email == "admin@gmail.com" && password == "123")
+                {
+                    return RedirectToAction("AdminDashboard", "Admin");
+                }
                 if (email1 == email && password1 == password)
                 {
-                    //TempData["User"] = new string[] { email, password };
-                    return RedirectToAction("Index", "Home");
+                    if (!string.IsNullOrEmpty(remember))
+                    {
+                        Response.Cookies.Append("Email", email1);
+                        Response.Cookies.Append("Password", password1);
+                    }
+                        return RedirectToAction("Index", "Home");
                 }
                 else
                 {

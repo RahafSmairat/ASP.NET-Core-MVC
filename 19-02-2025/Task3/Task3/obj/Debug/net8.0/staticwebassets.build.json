@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8dxhZnLU9EtGOFwpIYuKzFV5xJ+ct6yhHQFTIW0Y9Os=",
+  "Hash": "C1qbQlcO2EGSdekVPVGZisQL4jXcPs27xGp3l4/GuSQ=",
   "Source": "Task3",
   "BasePath": "_content/Task3",
   "Mode": "Default",
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u5nzwlmom5",
-      "Integrity": "AlT4Co2YeEQeR00/Oi6LnO7TnW5R0uLKYZlaau2oLGk=",
+      "Fingerprint": "9pmg36xgu3",
+      "Integrity": "E164bS10hO7AgeQstyBi+PgybMe9ocd2iPwyJxa8U0I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1630,6 +1630,51 @@
       ]
     },
     {
+      "Route": "css/site.9pmg36xgu3.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\19-02-2025\\Task3\\Task3\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E164bS10hO7AgeQstyBi+PgybMe9ocd2iPwyJxa8U0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:49:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9pmg36xgu3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E164bS10hO7AgeQstyBi+PgybMe9ocd2iPwyJxa8U0I="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\19-02-2025\\Task3\\Task3\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1640,7 +1685,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "456"
+          "Value": "943"
         },
         {
           "Name": "Content-Type",
@@ -1648,11 +1693,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AlT4Co2YeEQeR00/Oi6LnO7TnW5R0uLKYZlaau2oLGk=\""
+          "Value": "\"E164bS10hO7AgeQstyBi+PgybMe9ocd2iPwyJxa8U0I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 21:14:51 GMT"
+          "Value": "Thu, 20 Feb 2025 13:49:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1662,52 +1707,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AlT4Co2YeEQeR00/Oi6LnO7TnW5R0uLKYZlaau2oLGk="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.u5nzwlmom5.css",
-      "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\19-02-2025\\Task3\\Task3\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "456"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AlT4Co2YeEQeR00/Oi6LnO7TnW5R0uLKYZlaau2oLGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 21:14:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u5nzwlmom5"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AlT4Co2YeEQeR00/Oi6LnO7TnW5R0uLKYZlaau2oLGk="
+          "Value": "sha256-E164bS10hO7AgeQstyBi+PgybMe9ocd2iPwyJxa8U0I="
         }
       ]
     },

@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <form method="post" action="/Home/Index">
+        <input type="text" name="num1" placeholder="Number 1" />
+        <input type="text" name="num2" placeholder="Number 2" />
+        <br /><br />
+
+        <div>
+            <button type="submit" name="operation" value="sum">+</button>
+            <button type="submit" name="operation" value="dec">-</button>
+            <button type="submit" name="operation" value="multiply">x</button>
+            <button type="submit" name="operation" value="divi">/</button>
+        </div>
+
+        <br /><br />
+        <input type="text" name="result" placeholder="Result" readonly value="@TempData["Result"]" />
+</form>
+</div>
