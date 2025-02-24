@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Edit";
+}
+    
+@model Task2302.Models.User
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="UserId"/>
+    <input asp-for="FirstName" />
+    <input asp-for="LastName" />
+    <input asp-for="Email" />
+    <button type="submit">Save Changes</button>
+</form>
+

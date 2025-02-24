@@ -32,6 +32,39 @@ public class HomeController : Controller
         return RedirectToAction("Index");
     }
 
+    public IActionResult Edit(int UserId)
+    {
+        var user = _context.Users.Find(UserId);
+        return View(user);
+    }
+
+    [HttpPost]
+    public IActionResult Edit(User user)
+    {
+        //var existingUser = _context.Users.Find(user.UserId);
+        //existingUser.FirstName = user.FirstName;
+        //existingUser.Email = user.Email;
+        _context.Users.Update(user);
+        _context.SaveChanges();
+        return RedirectToAction("Index");
+    }
+
+    public IActionResult Delete(int UserId)
+    {
+        var user = _context.Users.Find(UserId);
+
+        _context.Users.Remove(user);
+        _context.SaveChanges();
+
+        return RedirectToAction("Index");
+    }
+
+    public IActionResult Details(int UserId)
+    {
+        var user = _context.Users.Find(UserId); 
+        return View(user);
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
