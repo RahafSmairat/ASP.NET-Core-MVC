@@ -21,6 +21,8 @@ public partial class MyDbContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
+    public virtual DbSet<Userr> Userrs { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Server=DESKTOP-KIES2N9;Database=Orange;Trusted_Connection=True;TrustServerCertificate=True;");
@@ -64,6 +66,22 @@ public partial class MyDbContext : DbContext
             entity.Property(e => e.Email).HasMaxLength(100);
             entity.Property(e => e.FirstName).HasMaxLength(50);
             entity.Property(e => e.LastName).HasMaxLength(50);
+        });
+
+        modelBuilder.Entity<Userr>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Userr__3214EC07B78E4905");
+
+            entity.ToTable("Userr");
+
+            entity.HasIndex(e => e.Email, "UQ__Userr__A9D10534A4018E97").IsUnique();
+
+            entity.Property(e => e.Email).HasMaxLength(255);
+            entity.Property(e => e.FullName).HasMaxLength(100);
+            entity.Property(e => e.Password).HasMaxLength(255);
+            entity.Property(e => e.Role)
+                .HasMaxLength(50)
+                .HasColumnName("role");
         });
 
         OnModelCreatingPartial(modelBuilder);

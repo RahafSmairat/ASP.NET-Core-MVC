@@ -15,6 +15,10 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        if (!string.IsNullOrEmpty(HttpContext.Session.GetString("Name")))
+        {
+            ViewBag.Name = HttpContext.Session.GetString("Name");
+        }
         return View();
     }
 

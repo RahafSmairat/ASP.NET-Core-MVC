@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "EditProfile";
+}
+@model Task2402.Models.Userr
+
+<h1>EditProfile</h1>
+
+<form asp-action="EditProfile">
+    <input asp-for="FullName" />
+    <input asp-for="Email" />
+    <button type="submit">Save Changes</button>
+</form>

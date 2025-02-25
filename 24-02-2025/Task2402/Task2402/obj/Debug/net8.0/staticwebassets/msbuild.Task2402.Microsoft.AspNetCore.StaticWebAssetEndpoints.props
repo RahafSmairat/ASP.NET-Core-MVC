@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Task2402/css/ProfileStyle.00o56y9vtq.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\ProfileStyle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"00o56y9vtq"},{"Name":"integrity","Value":"sha256-wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM="},{"Name":"label","Value":"_content/Task2402/css/ProfileStyle.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2671"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 25 Feb 2025 19:04:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Task2402/css/ProfileStyle.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\ProfileStyle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2671"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 25 Feb 2025 19:04:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Task2402/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

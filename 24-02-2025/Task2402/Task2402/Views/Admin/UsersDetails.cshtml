@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "UsersDetails";
+}
+
+<h1>UsersDetails</h1>
+
+    @model IEnumerable<Task2402.Models.Userr>
+
+<div class="text-center">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Edit User</th>
+                <th>Delete User</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.FullName</td>
+                    <td>@user.Email</td>
+                    <td><a asp-action="EditUser" asp-route-Id="@user.Id">Edit</a></td>
+                    <td>
+                        <a asp-action="Delete" asp-route-Id="@user.Id" onclick="return confirm('Are you sure you want to delete this user?');">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

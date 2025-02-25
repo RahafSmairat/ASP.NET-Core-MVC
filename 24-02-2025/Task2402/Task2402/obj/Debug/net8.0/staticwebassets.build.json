@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qvya9Aah9MUm0Q89CbdwyQKxjEnHZqo1T0aK2hDSnT0=",
+  "Hash": "Y2pUFNW2DXuqa3isOrkPx4/veInEvgnYUI6yXDGpIY4=",
   "Source": "Task2402",
   "BasePath": "_content/Task2402",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Task2402.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\wwwroot\\css\\ProfileStyle.css",
+      "SourceId": "Task2402",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\wwwroot\\",
+      "BasePath": "_content/Task2402",
+      "RelativePath": "css/ProfileStyle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "00o56y9vtq",
+      "Integrity": "wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ProfileStyle.css"
     },
     {
       "Identity": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\wwwroot\\css\\site.css",
@@ -1320,6 +1341,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/ProfileStyle.00o56y9vtq.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\wwwroot\\css\\ProfileStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 19:04:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "00o56y9vtq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/ProfileStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM="
+        }
+      ]
+    },
+    {
+      "Route": "css/ProfileStyle.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\wwwroot\\css\\ProfileStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 19:04:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOYd4tStgy4SZqA2e6vvqx1NQMCGPN9XvBvo6/alJTM="
+        }
+      ]
+    },
     {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\wwwroot\\css\\site.css",
