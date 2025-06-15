@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Employees";
+}
+
+@model List<Employee>
+
+<h2>Employees</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.Email</td>
+                <td><img src="@emp.ImagePath" width="50" /></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

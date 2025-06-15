@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+@model Employee
+
+<h2>Add Employee</h2>
+<form asp-action="Create" asp-controller="Employee" method="post" enctype="multipart/form-data">
+    <input type="hidden" name="ManagerId" value="@ViewBag.ManagerId" />
+    <label>Name:</label> <input type="text" name="Name" required />
+    <label>Email:</label> <input type="email" name="Email" required />
+    <label>Password:</label> <input type="password" name="Password" required />
+    <label>Image:</label> <input type="file" name="imageFile" required />
+    <button type="submit">Save</button>
+</form>
+

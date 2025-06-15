@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\views\\manager\\employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\views\\manager\\employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\26-02-2025\\practice\\practice\\models\\taskk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3BA666-4B00-47B9-9A4B-366B71A82D8D}|Practice\\Practice.csproj|solutionrelative:practice\\models\\taskk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:49:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Taskk.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Models\\Taskk.cs",
+              "RelativeDocumentMoniker": "Practice\\Models\\Taskk.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Models\\Taskk.cs",
+              "RelativeToolTip": "Practice\\Models\\Taskk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:49:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Views\\Task\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "Practice\\Views\\Task\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T07:26:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Practice\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T07:24:20.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Manager\\Employees.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Views\\Manager\\Employees.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Manager\\Employees.cshtml",
+              "RelativeToolTip": "Practice\\Views\\Manager\\Employees.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T07:23:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practice\\Views\\Manager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "Practice\\Views\\Manager\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T07:19:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:58:57.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\26-02-2025\\Practice\\Practice\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:45:01.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

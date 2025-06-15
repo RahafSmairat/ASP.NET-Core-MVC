@@ -34,8 +34,7 @@
               "RelativeToolTip": "Task2402\\Views\\Admin\\EditUser.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T20:29:00.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:29:00.336Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "Task2402\\Views\\Admin\\UsersDetails.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T20:17:24.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T20:17:24.191Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "Task2402\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\24-02-2025\\Task2402\\Task2402\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Task2402\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:21:08.696Z",
               "EditorCaption": ""

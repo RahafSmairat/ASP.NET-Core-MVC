@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+@model Taskk
+
+<h2>Assign Task</h2>
+<form asp-action="Create" asp-controller="Task" method="post">
+    <label>Task Name:</label> <input type="text" name="TaskName" required />
+    <label>Start Date:</label> <input type="date" name="StartDate" required />
+    <label>End Date:</label> <input type="date" name="EndDate" required />
+    <label>Employee:</label>
+    <select name="EmployeeId">
+        @foreach (var emp in ViewBag.Employees)
+        {
+            <option value="@emp.Id">@emp.Name</option>
+        }
+    </select>
+    <button type="submit">Assign</button>
+</form>
+
+
